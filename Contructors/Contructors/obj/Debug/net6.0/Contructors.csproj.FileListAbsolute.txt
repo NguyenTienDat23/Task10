@@ -1,0 +1,15 @@
+C:\Users\ACER\source\repos\Contructors\Contructors\bin\Debug\net6.0\Contructors.exe
+C:\Users\ACER\source\repos\Contructors\Contructors\bin\Debug\net6.0\Contructors.deps.json
+C:\Users\ACER\source\repos\Contructors\Contructors\bin\Debug\net6.0\Contructors.runtimeconfig.json
+C:\Users\ACER\source\repos\Contructors\Contructors\bin\Debug\net6.0\Contructors.dll
+C:\Users\ACER\source\repos\Contructors\Contructors\bin\Debug\net6.0\Contructors.pdb
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.dll
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\refint\Contructors.dll
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.pdb
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\Contructors.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Contructors\Contructors\obj\Debug\net6.0\ref\Contructors.dll
